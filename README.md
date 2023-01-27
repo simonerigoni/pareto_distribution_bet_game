@@ -27,11 +27,15 @@ After a betting cycle the distribution of money is pretty unequal and a lot of p
 
 Just for fun now let's apply a tax to the rich players and redistribute some money to the broke players:
 
-![After taxes](players_status_checkpoints/after_taxes.png)
+![After Taxes](players_status_checkpoints/after_taxes.png)
 
 End if we run again a betting cycle
 
 ![Ending](players_status_checkpoints/ending.png)
+
+We can also check the evolution of every palyer moneys:
+
+![Money Trend](images/money_trend.png)
 
 You can find more information in this [blog post](https://simone-rigoni01.medium.com/)
 
