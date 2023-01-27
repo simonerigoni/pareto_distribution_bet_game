@@ -1,2 +1,3 @@
-# pareto_distribution_bet_game
-Pareto distribution bet game
+# Pareto distribution bet game
+
+## Introduction
