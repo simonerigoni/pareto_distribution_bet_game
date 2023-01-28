@@ -37,7 +37,7 @@ We can also check the evolution of every palyer moneys:
 
 ![Money Trend](images/money_trend.png)
 
-You can find more information in this [blog post](https://simone-rigoni01.medium.com/)
+You can find more information in this [blog post](https://simone-rigoni01.medium.com/the-pareto-distribution-b32fe9991deb)
 
 ## Acknowledgements
 
