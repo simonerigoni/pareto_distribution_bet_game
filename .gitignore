@@ -1,3 +1,3 @@
-# Ignore others
+# Files, directories or patterns that should be excluded from Git tracking
 
 temp/

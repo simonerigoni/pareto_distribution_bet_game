@@ -1,14 +1,20 @@
-# To do list 
+# Pareto distribution bet game
 
-## New ideas
+## TODO
+
+Overview of the status of the tasks of this project.
+
+## Tasks
+
+
+### To do
 
 - [ ] We could also take a sample inside the betting cycle to have a more accuarate rappresentation of the evolution of the money of the players
 
-## To Do
+### In Progress
 
+- [ ]
 
-## In Progress
+### Done ✓
 
-
-## Done ✓
-
+- [x] Project initialization
