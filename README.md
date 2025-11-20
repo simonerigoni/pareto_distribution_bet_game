@@ -11,6 +11,20 @@ This project uses Python 3.9.2 and the following libraries:
 * [Numpy](https://numpy.org/)
 * [matplotlib](https://pypi.org/project/matplotlib/)
 
+## Pre-commit
+
+[Pre-commit](https://pre-commit.com/) is a framework for managing and maintaining multi-language pre-commit hooks. A pre-commit hook is a script that runs before a commit operation in a version control system. This allows to shift left code quality checks.
+
+To launch the pre-commit hooks without an actual commit `pre-commit run`.
+
+## Data
+
+Have a look at the `data` folder and its [DATA.md](data/DATA.md) file.
+
+## Testing
+
+No test implemented.
+
 ## Running the code
 
 The code is provided in the form of a [Jupyter](https://jupyter.org/) Notebook `bet_game.ipynb`
