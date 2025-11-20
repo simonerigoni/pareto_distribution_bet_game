@@ -33,19 +33,19 @@ The code is provided in the form of a [Jupyter](https://jupyter.org/) Notebook `
 
 We have been able to simulate the experiment and the results are as expected. At the beginning the distribution of money is uniform between the players:
 
-![Starting](players_status_checkpoints/starting.png)
+![Starting](data/players_status_checkpoints/starting.png)
 
 After a betting cycle the distribution of money is pretty unequal and a lot of players have 0 money
 
-![Middle](players_status_checkpoints/middle.png)
+![Middle](data/players_status_checkpoints/middle.png)
 
 Just for fun now let's apply a tax to the rich players and redistribute some money to the broke players:
 
-![After Taxes](players_status_checkpoints/after_taxes.png)
+![After Taxes](data/players_status_checkpoints/after_taxes.png)
 
 End if we run again a betting cycle
 
-![Ending](players_status_checkpoints/ending.png)
+![Ending](data/players_status_checkpoints/ending.png)
 
 We can also check the evolution of every palyer moneys:
 
