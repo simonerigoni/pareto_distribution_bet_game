@@ -1,3 +1,24 @@
 # Files, directories or patterns that should be excluded from Git tracking
 
+# General stuff
+
+# Python compiled files
+*.pyc
+
+# Actual project folders and files
+
+# Temp stuff
 temp/
+
+# Virtual enviroment
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Ruff cache
+.ruff_cache/
+
+# uv stuff
+.python-version
+uv.lock
