@@ -18,3 +18,4 @@ Overview of the status of the tasks of this project.
 ### Done ✓
 
 - [x] Project initialization
+- [x] Use uv and pre-commit
