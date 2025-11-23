@@ -11,11 +11,16 @@ This project uses Python 3.9.2 and the following libraries:
 * [Numpy](https://numpy.org/)
 * [matplotlib](https://pypi.org/project/matplotlib/)
 
-## Pre-commit
+## Local configuration
 
-[Pre-commit](https://pre-commit.com/) is a framework for managing and maintaining multi-language pre-commit hooks. A pre-commit hook is a script that runs before a commit operation in a version control system. This allows to shift left code quality checks.
+To setup a new local enviroment and install all dependencies you can run `.\my_scripts\Set-Up.ps1`. It will install:
+* [Python](https://www.python.org/)
+* [uv](https://docs.astral.sh/uv/)
+* [Pre-commit](https://pre-commit.com/)
 
-To launch the pre-commit hooks without an actual commit `pre-commit run`.
+Pre-commit is a framework for managing and maintaining multi-language pre-commit hooks. A pre-commit hook is a script that runs before a commit operation in a version control system. This allows to shift left code quality checks and remediations. You can change the hooks by updateing the file `.pre-commit-config.yaml`.
+
+To launch the pre-commit hooks without an actual commit you can run `pre-commit run --all-files -v`.
 
 ## Data
 
