@@ -56,8 +56,6 @@ We can also check the evolution of every palyer moneys:
 
 ![Money Trend](images/money_trend.png)
 
-You can find more information in this [blog post](https://simone-rigoni01.medium.com/the-pareto-distribution-b32fe9991deb)
-
 ## List of activities
 
 In the [TODO.md](TODO.md) file you can find the list of tasks and on going activities.
@@ -68,4 +66,4 @@ Have a look at [LICENSE.md](LICENSE.md) and thanks [Dr Jordan B Peterson](https:
 
 ## Outro
 
-I hope this repository was interesting and thank you for taking the time to check it out. On my Medium you can find a more in depth [story](https://medium.com/@simone-rigoni01/) and on my Blogspot you can find the same [post](https://simonerigoni01.blogspot.com/) in italian. Let me know if you have any question and if you like the content that I create feel free to [buy me a coffee](https://www.buymeacoffee.com/simonerigoni).
+I hope this repository was interesting and thank you for taking the time to check it out. On my Medium you can find a more in depth [story](https://medium.com/@simone-rigoni01/the-pareto-distribution-b32fe9991deb) and on my Blogspot you can find the same [post](https://simonerigoni01.blogspot.com/) in italian. Let me know if you have any question and if you like the content that I create feel free to [buy me a coffee](https://www.buymeacoffee.com/simonerigoni).
