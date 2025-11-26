@@ -6,7 +6,8 @@ The [Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution) is 
 
 ## Software and Libraries
 
-This project uses Python 3.9.2 and the following libraries:
+This project uses Python 3.11 and the most important packages are:
+
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [matplotlib](https://pypi.org/project/matplotlib/)
@@ -14,6 +15,7 @@ This project uses Python 3.9.2 and the following libraries:
 ## Local configuration
 
 To setup a new local enviroment and install all dependencies you can run `.\my_scripts\Set-Up.ps1`. It will install:
+
 * [Python](https://www.python.org/)
 * [uv](https://docs.astral.sh/uv/)
 * [Pre-commit](https://pre-commit.com/)
