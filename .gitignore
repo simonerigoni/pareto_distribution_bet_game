@@ -15,6 +15,5 @@ temp/
 # Ruff cache
 .ruff_cache/
 
-# uv stuff
-.python-version
-uv.lock
+# pytest-cov stuff
+.coverage
