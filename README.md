@@ -6,7 +6,7 @@ The [Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution) is 
 
 ## Software and Libraries
 
-This project uses Python 3.11 and the most important packages are:
+This project uses Python 3.14 and the most important packages are:
 
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
