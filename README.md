@@ -1,5 +1,7 @@
 # Pareto distribution bet game
 
+[![CI](https://github.com/simonerigoni/pareto_distribution_bet_game/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/simonerigoni/pareto_distribution_bet_game/actions/workflows/ci.yml?query=branch%3Amain) [![License](https://img.shields.io/github/license/simonerigoni/pareto_distribution_bet_game)](LICENSE.md) [![Python](https://img.shields.io/badge/python-3.14-blue)](pyproject.toml) [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit) [![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen?logo=renovatebot)](https://renovatebot.com)
+
 ## Introduction
 
 The [Pareto distribution](https://en.wikipedia.org/wiki/Pareto_distribution) is a probability distribution that is often used to describe the distribution of wealth in a population. It is also known as the 80/20 rule, as it states that 80% of the outcome are due to 20% of the causes. The goal is to simulate [this](https://www.youtube.com/watch?v=TcEWRykSgwE) experiment that [Dr Jordan B Peterson](https://www.jordanbpeterson.com/) uses to teach his students about the Pareto principle.
