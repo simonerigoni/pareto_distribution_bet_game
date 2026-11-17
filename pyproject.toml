@@ -17,7 +17,6 @@ dependencies = [
 
 
 [project.urls]
-Homepage = "https://github.com/simonerigoni/pareto_distribution_bet_game"
 Repository = "https://github.com/simonerigoni/pareto_distribution_bet_game"
 Medium = "https://medium.com/@simone-rigoni01/the-pareto-distribution-b32fe9991deb"
 
